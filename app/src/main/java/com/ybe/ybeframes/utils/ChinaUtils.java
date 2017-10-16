@@ -5,4 +5,9 @@ package com.ybe.ybeframes.utils;
  */
 
 public class ChinaUtils {
+
+    public static void getInstenest() {
+
+    }
+
 }
