@@ -26,4 +26,18 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     testCompile 'junit:junit:4.12'
+
+    //注入
+    compile 'com.jakewharton:butterknife:7.0.1'
+    //json
+    compile 'com.google.code.gson:gson:2.5'
+    //图片放大缩小
+    compile 'com.github.chrisbanes.photoview:library:1.2.4'
+    //网络请求
+    compile 'com.zhy:okhttputils:2.3.8'
+    //logger日志库
+    compile 'com.orhanobut:logger:1.11'
+
+    //图片加载
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 }
